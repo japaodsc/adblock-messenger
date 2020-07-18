@@ -1,0 +1,12 @@
+||facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest
+||messenger.com/ajax/mercury/change_read_status.php$xmlhttprequest
+https://www.facebook.com/ajax/mercury/change_read_status.php
+https://www.messenger.com/ajax/mercury/change_read_status.php
+https://www.facebook.com/ajax/mercury/delivery_receipts.php
+https://www.messenger.com/ajax/mercury/delivery_receipts.php
+https://www.facebook.com/ajax/notifications/mark_read.php
+https://www.messenger.com/ajax/notifications/mark_read.php
+https://www.facebook.com/ajax/mercury/mark_seen.php
+https://www.messenger.com/ajax/mercury/mark_seen.php
+https://www.facebook.com/ajax/mercury/unread_threads.php
+https://www.messenger.com/ajax/mercury/unread_threads.php
